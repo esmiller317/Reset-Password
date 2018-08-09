@@ -8,6 +8,11 @@ print ('Enter your newpassword')
 newPassword = raw_input ()
 entries += 1
 
+
+for i in range (2)
+
+sys.exit()
+
 while newPassword == oldPassword and theEnd == False:
         if entries < 3:
             print ('Your new password cannot be the same as your old password.')
